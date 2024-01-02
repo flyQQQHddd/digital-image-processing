@@ -7,7 +7,7 @@
 
 ## 文件内容
 
-- src.cpp源码文件
+- dip7Q.cpp源码文件
 - dip7Q.exe可执行文件（需要与opencv_world450d.dll置于同一路径下）
 
 ## 实现的功能
